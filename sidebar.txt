@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rel:home|Door43 (rel)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rel|d43-rel repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rel/archive/master.zip|d43-rel.zip]]
+
+**Recent Changes**
+{{changes>ns = rel}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rel|Ethnologue data]]
+
